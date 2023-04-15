@@ -14,6 +14,7 @@
 }
 
 .game-info{
+    width: max-content;
     color: white;
     position: absolute;
     top: 3rem;
